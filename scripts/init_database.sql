@@ -7,7 +7,7 @@ Use Datawarehouse;
 
 Create Schema bronze;
 Go
-Create Schema siver;
+Create Schema silver;
 Go
 Create Schema gold;
 GO
