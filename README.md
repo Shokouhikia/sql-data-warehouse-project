@@ -1,5 +1,5 @@
 # sql-data-warehouse-project
-building a comprehensive modern data warehouse including ETL processes, data analytics
+building a modern data warehouse including ETL processes, data analytics
 <img width="1544" height="801" alt="data_architecture" src="https://github.com/user-attachments/assets/c36c641a-3a13-4f67-ae26-255caad9d8ae" />
 
 
